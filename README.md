@@ -18,3 +18,4 @@ Belajar kelas memulai pemrograman dengan javascript.(Progres 100%)
  * Belajar kelas-kelas yang sering digunakan
  * Berlatih dengan membuat program
  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+**Selesai**
